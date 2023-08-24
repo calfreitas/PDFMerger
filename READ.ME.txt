@@ -1,0 +1,7 @@
+This is just a basic project using Pypdf2 as a tool to work it - instructions below: 
+
+- If you are familiar with projects in Python, made this in a Virtual Environment in your Code Editor. 
+
+- Open a new folder with your archives ".pdf" and rename with sequencial numbers you want sort in program. 
+
+- Define a name for your "final.pdf". 
